@@ -6,5 +6,5 @@ config:
   packages:
     - wget
   runcmd:
-    - wget https://raw.githubusercontent.com/staltz/ssb-room/master/install.sh
+    - wget https://raw.githubusercontent.com/leo-lb/ssb-room/improve-security/install.sh
     - bash install.sh
